@@ -7,8 +7,8 @@ development:
   prod_webserver: puma
   database: postgresql
   templates: erb
-  tests: rspec
-  continuous_testing: none
+  tests: none
+  continuous_testing: 
   frontend: bootstrap3
   email: sendgrid
   authentication: devise
