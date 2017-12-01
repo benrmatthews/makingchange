@@ -21,9 +21,9 @@ choose  Enter your selection: [postgresql]
 option  Template engine?
 choose  Enter your selection: [erb]
 option  Test framework?
-choose  Enter your selection: [rspec]
-option  Continuous testing?
 choose  Enter your selection: [none]
+option  Continuous testing?
+choose  Enter your selection: []
 option  Front-end framework?
 choose  Enter your selection: [bootstrap3]
 option  Add support for sending email?
